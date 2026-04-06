@@ -1,5 +1,15 @@
 # ip-log-analyzer
-What does it do? 
-It logs incoming IP addresses. 
-If the same IP address sends too many requests, it gives a warning. 
-It works like a simple "mini IDS (Intrusion Detection System)".
+# IP Log Analyzer & Alert System
+
+This project is a simple Python-based intrusion detection simulation.
+
+## Features
+- Logs IP requests
+- Detects suspicious activity
+- Alerts when threshold exceeded
+
+## Technologies
+- Python
+
+## Purpose
+Built for learning cybersecurity and network monitoring basics.
